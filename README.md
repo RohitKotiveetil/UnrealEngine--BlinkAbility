@@ -3,6 +3,6 @@ Blink ability created using blueprints in Unreal Engine 4.20.
 
 Design Process: https://unrealpossibilities.blogspot.in/2018/04/unreal-engine-experiments-blink-ability.html
 
-Preview Video: https://www.youtube.com/watch?v=MppMlKZ5-PA&amp;t=0s&amp;list=PLMrUFryxCzn6tc2K8LFVPWkDQB4wvoSiU&amp;index=5
+Preview Video: https://www.youtube.com/watch?v=MppMlKZ5-PA
 
 This project is licensed under the Unreal Engine 4 EULA.
