@@ -5,4 +5,4 @@ Design Process: https://unrealpossibilities.blogspot.in/2018/04/unreal-engine-ex
 
 Preview Video: https://www.youtube.com/watch?v=MppMlKZ5-PA
 
-This project is licensed under the Unreal Engine 4 EULA.
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
