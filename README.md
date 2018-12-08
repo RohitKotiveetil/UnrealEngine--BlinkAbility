@@ -5,4 +5,6 @@ Blink ability created using blueprints in Unreal Engine 4.21.
 
 **Preview:** https://www.youtube.com/watch?v=MppMlKZ5-PA
 
+**Integration Tutorial:** https://www.youtube.com/watch?v=jNLleAGikUI
+
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
