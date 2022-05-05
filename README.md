@@ -1,5 +1,5 @@
 # UnrealEngine--BlinkAbility
-Blink ability created using blueprints in Unreal Engine 4.25.
+Blink ability created using blueprints in Unreal Engine 5.0.
 
 **Design Process:** https://unrealpossibilities.blogspot.com/2018/04/unreal-engine-experiments-blink-ability.html
 
@@ -7,4 +7,4 @@ Blink ability created using blueprints in Unreal Engine 4.25.
 
 **Integration Tutorial:** https://www.youtube.com/watch?v=jNLleAGikUI
 
-(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
